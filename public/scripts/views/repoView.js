@@ -2,7 +2,6 @@
 
 (function(module) {
   const repoView = {};
-
   const ui = function() {
     let $about = $('#about');
 
